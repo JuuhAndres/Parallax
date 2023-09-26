@@ -87,7 +87,9 @@ section.module.parallax > h1{
 section.module.parallax-1{
     background-image: url(pexels-arshad-sutar-1749303.jpg);
 }
-
+section.module.parallax-4{
+    background-image: url();
+}
 section.module.parallax-2 video{
     
     background-position: 50% 50%;
@@ -111,6 +113,7 @@ section.module.parallax-2 video::after{
 section.module.parallax-3{
     background-image: url(pexels-eyad-tariq-3879495.jpg);
 }
+
 .area1,.area2{
     visibility: hidden;
 }
